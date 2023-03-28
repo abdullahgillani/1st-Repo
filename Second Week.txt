@@ -1,0 +1,6 @@
+Installed Flutter SDK
+Learn Basic Dart Language
+Installed Github, Created Repository and main branch
+Installed VS Code and pull github branch into VS Code
+Created First Flutter Application
+Commit and Merged changes to Main branch
